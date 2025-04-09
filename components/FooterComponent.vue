@@ -3,7 +3,7 @@
       <div class="mx-auto flex flex-col md:flex-row justify-center items-center px-6">
         
         <!-- Left Side: Copyright -->
-        <span class="text-sm">&copy; 2025 Your Name. All Rights Reserved.</span>
+        <span class="text-sm">&copy; 2025 Wahab Ahmed. All Rights Reserved.</span>
       </div>
     </footer>
   </template>

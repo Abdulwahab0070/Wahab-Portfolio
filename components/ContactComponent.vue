@@ -17,10 +17,10 @@
 
         <!-- Social Icons -->
         <div class="flex justify-center md:justify-start space-x-6">
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="w-10 transform transition-all duration-500 hover:scale-110">
+          <!-- <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="w-10 transform transition-all duration-500 hover:scale-110">
             <img src="/linkdin-DCPyxBGn.png" alt="LinkedIn" />
-          </a>
-          <a href="https://wa.me/030371516860?text=Hello Wahab! I need your help." target="_blank" class="w-10 transform transition-all duration-500 hover:scale-110">
+          </a> -->
+          <a href="https://wa.me/03071516860?text=Hello Wahab! I need your help." target="_blank" class="w-10 transform transition-all duration-500 hover:scale-110">
             <img src="/whatsapp-CyWdMhu9.png" alt="WhatsApp" />
           </a>
           <a href="mailto:wahab.muneer2002@gmail.com" class="w-10 transform transition-all duration-500 hover:scale-110">
